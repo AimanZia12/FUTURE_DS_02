@@ -53,11 +53,12 @@ Marketing_Analytics_Dataset_by_Slidescope
 •	Product B had the highest impressions (~158K)
 
 ## Repository Structure:
-•	Data-
+•	Data- https://github.com/AimanZia12/FUTURE_DS_02/blob/main/Marketing_Analytics_Dataset_by_Slidescope3.xlsx
 
-•	Dashboard-
+•	Dashboard- https://github.com/AimanZia12/FUTURE_DS_02/blob/main/Marketing%20Performance%20Analysis.pbix
 
-•	Image-
+•	Image- ![Screenshot (95)](https://github.com/user-attachments/assets/8986e153-6f81-448e-a6ef-449cb51056cc)
+
 
 ## Outcome:
 This dashboard delivers actionable insights into the effectiveness of marketing campaigns across multiple channels, regions, and products. Key outcomes include:
